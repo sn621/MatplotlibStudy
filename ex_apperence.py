@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from matplotlib.ticker import (MultipleLocator,FormatStrFormatter,AutoMinorLocator)
 from cycler import cycler
 # Color
 SColors = [(246/255,170/255,0/255), (0/255,90/255,255/255), (255/255,75/255,0), (3/255,175/255,122/255), (153/255,0,153/255), (255/255,128/255,130/255), (128/255,64/255,0), (132/255,145/255,158/255), (77/255,196/255,255/255)]
